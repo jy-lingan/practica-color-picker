@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/practica-color-picker/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/practica-color-picker/static/js/main.0758a368.chunk.js",
+    "main.js.map": "/practica-color-picker/static/js/main.0758a368.chunk.js.map",
+    "runtime-main.js": "/practica-color-picker/static/js/runtime-main.f2787b41.js",
+    "runtime-main.js.map": "/practica-color-picker/static/js/runtime-main.f2787b41.js.map",
+    "static/js/2.fcf93489.chunk.js": "/practica-color-picker/static/js/2.fcf93489.chunk.js",
+    "static/js/2.fcf93489.chunk.js.map": "/practica-color-picker/static/js/2.fcf93489.chunk.js.map",
+    "static/js/3.7c8b6593.chunk.js": "/practica-color-picker/static/js/3.7c8b6593.chunk.js",
+    "static/js/3.7c8b6593.chunk.js.map": "/practica-color-picker/static/js/3.7c8b6593.chunk.js.map",
+    "index.html": "/practica-color-picker/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/practica-color-picker/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fcf93489.chunk.js.LICENSE.txt": "/practica-color-picker/static/js/2.fcf93489.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/practica-color-picker/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2787b41.js",
+    "static/js/2.fcf93489.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0758a368.chunk.js"
+  ]
+}
